@@ -10499,13 +10499,9 @@ var getTestCar = function getTestCar() {
 };
 
 var station = new _modules_station__WEBPACK_IMPORTED_MODULE_2__.Station([{
-  type: 'petrol',
-  count: 2,
-  speed: 5
+  type: 'petrol'
 }, {
-  type: 'diesel',
-  count: 2,
-  speed: 20
+  type: 'diesel'
 }, {
   type: 'gas'
 }], '.app');
@@ -10522,4 +10518,4 @@ open.addEventListener('click', function () {
 
 /******/ })()
 ;
-//# sourceMappingURL=main0aaeb97433217e1c5edc.js.map
+//# sourceMappingURL=main9c698311c2cc2b0e7207.js.map
